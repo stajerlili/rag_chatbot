@@ -1,0 +1,12 @@
+langgraph==0.0.17 
+langchain==0.1.20
+langchain-core==0.1.53
+langchain-community==0.0.38
+transformers==4.51.3
+torch==2.7.0 
+sentence-transformers==4.1.0
+chromadb==1.0.7  
+pandas==2.2.3 
+numpy==1.26.4
+faiss-gpu==1.7.2
+accelerate==1.6.0
